@@ -7,4 +7,5 @@ Three craftable firearms have been added:
 - Long-barreled makeshift rifle - (id: YUNAndYiJin.MakeshiftLongbarreledRifle)
 - Makeshift pistol --------------- (id: YUNAndYiJin.MakeshiftPistol)
 
- * This mod features built-in localization capabilities. *
+  
+( This mod features built-in localization capabilities. )
